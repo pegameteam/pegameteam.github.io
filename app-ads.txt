@@ -1,10 +1,7 @@
 google.com, pub-2284291489148151, DIRECT, f08c47fec0942fa0
 
-may,screwcrazy,f1987breewii887
-facebook.com, 4423171987999528, DIRECT, c3e20eee3f780d68
-
-bkid, 098765bfb3345
-10076835082384710, 1369125374662863, 4423171987999528
+may,screwcrazybosts,f1987breewii887
+facebook.com, 2369085407243341, DIRECT, c3e20eee3f780d68
 
 newcon, 22345yueicm, DIRECT
 abcword2026, an4456jiue998y, DIRECT, cfd445789
